@@ -7,6 +7,13 @@ If you use Excel like graph paper, this Add-In will come in handy.
 
 ![example image](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/example.png)
 
+## Installation
+1. Download "DrawBorders.xlam".
+2. Move "DrawBorders.xlam" to "C:\Users\[Username]\AppData\Roaming\Microsoft\AddIns".
+3. Input [Alt] -> [t] -> [i] to show Add-In dialog.
+4. Check "DrawBorders" and then click "OK".  
+ ![add-in dialog](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/add-in.png)
+
 ## How to use
 1. Select the range to draw borders.  
 
