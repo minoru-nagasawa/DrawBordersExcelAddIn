@@ -12,10 +12,10 @@ If you use Excel like graph paper, this Add-In will come in handy.
 
  ![select the range](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/select.png)  
 
-* Click "Draw" in Ribbon.  
+2. Click "Draw" in Ribbon.  
 
  ![click draw](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/click.png)  
 
-  Borders will be drawn.  
-  
+* Borders will be drawn.  
+
  ![borders drawn](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/drawn.png)  
