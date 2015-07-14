@@ -19,7 +19,7 @@ If you use Excel like graph paper, this Add-In will come in handy.
 
  ![select the range](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/select.png)  
 
-2. Click "Draw" in Ribbon.  
+2. Click "Draw Sparse" or "Draw Dense" in Ribbon.  
 
  ![click draw](https://github.com/minoru-nagasawa/DrawBordersExcelAddin/blob/master/click.png)  
 
